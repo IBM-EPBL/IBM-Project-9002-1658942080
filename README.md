@@ -6,7 +6,7 @@
  IBM_Project: IBM-Project-9002-1658942080
  Batch-Name:B8-2A4E
 
-         Team Members:![68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663630332f3531322e676966](https://user-images.githubusercontent.com/85397546/199651181-0446dbc8-2b4c-4b04-a99c-7f3ecdca7f68.gif)
+  
 
          
               *Vishal Guna
